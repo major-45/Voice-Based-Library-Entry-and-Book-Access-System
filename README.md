@@ -68,7 +68,8 @@ Project Structure (Example)
 ├── speech_recognition.m         # Handles voice input
 ├── robot_control.m              # Robot book collection logic (optional)
 └── README.md                    # Project documentation
-Contributors
+
+Contributors:
 1. Wassie Haque
 2. Md. Mohiuddin Ebrahim
 3. Zubayer Ahmed Asif
